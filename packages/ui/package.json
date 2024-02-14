@@ -1,0 +1,15 @@
+{
+  "name": "@analysst/ui",
+  "main": "./index.js",
+  "version": "0.0.0",
+  "description": "custom ui package",
+  "type": "module",
+  "license": "ISC",
+  "dependencies": {
+    "snabbdom": "^3.5.1",
+    "snabbdom-jsx": "^0.4.2"
+  },
+  "exports": {
+    ".": "./index.js"
+  }
+}
